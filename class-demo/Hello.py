@@ -19,6 +19,7 @@ print(first_name + favourite_colour)
 
 
 # Types of Variable
+
 # integer - whole number (eg 0-9)
 # Floating point - decimal number eg (0.1, 0.5)
 # string  - (str) - which are used to stored texts e.g ("Hello", " john", "python")
